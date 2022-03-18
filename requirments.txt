@@ -1,0 +1,6 @@
+beautifulsoup4
+csv
+nltk
+
+
+#### pytorch
