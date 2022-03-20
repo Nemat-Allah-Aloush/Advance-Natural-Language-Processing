@@ -1,6 +1,6 @@
 beautifulsoup4
 csv
 nltk
-
-
+pandas
+tqdm
 #### pytorch
