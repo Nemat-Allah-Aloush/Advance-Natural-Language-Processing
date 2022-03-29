@@ -11,10 +11,10 @@ Tasks for Advance Natural Language Processing Course at ITMO University.
 ## Data cleaning and duplicaets detection
 This file contains :
 - Data Cleaning:
-1.Remove non-english words
-2.Remove html-tags (try to do it with regular expression, or play with beautifulsoap library)
-3.Apply lemmatization / stemming
-4.Remove stop-words
+1. Remove non-english words
+2. Remove html-tags (try to do it with regular expression, or play with beautifulsoap library)
+3. Apply lemmatization / stemming
+4. Remove stop-words
 
 - Duplicates detection using LSH
 
