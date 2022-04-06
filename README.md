@@ -2,11 +2,11 @@
 Tasks for Advance Natural Language Processing Course at ITMO University.
 
 # Index
-1. [Data cleaning and duplicaets detection](#Data_cleaning_and_duplicaets_detection)
+1. [Data cleaning and duplicaets detection](#data_cleaning_and_duplicaets_detection)
 2. [Quora duplicates detection](#Quora_duplicates_detection)
 3. [Attention mechanism and Bert](#Attention_mechanism_and_Bert)
 4. [Fine tuning and dividing documents on 10 topic categories](#Fine_tuning)
-5. [Topic Modeling](#)
+5. [Topic Modeling](#topic-modeling)
 
 ## 
 ## [Data cleaning and duplicaets detection](https://github.com/Nemat-Allah-Aloush/Advance-Natural-Language-Processing/blob/main/%5BNemat.Aloush.J41332c%5D.HW1.ipynb)
